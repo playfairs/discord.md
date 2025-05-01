@@ -1,3 +1,4 @@
+# Server Tags and Gradient Role Colors
 
 # What are these?
 
@@ -22,6 +23,12 @@ Your Server Tag can change for various of reasons, the main reason is normally j
 #### Others have a different icon than me, but the same tag, why?
 
 Sometimes when the owner of a Server Tag changes it's icon, the icon doesn't always change for everyone immediately, this is due to how Discord caches the Icons which a users currently set Server Tag works, normally you can either change it manually by removing them reapplying the tag, or hard-reload discord / restart your client, this will clear the cache and your tag SHOULD change, if it does not, then you may need to wait.
+
+"And mostly so the servers don't blow up when it has to change a profile field for 300k people at once. Its still being worked on how exactly it should work." - Tech
+
+#### How can I change my Server Tag Icon?
+
+You can't, only the owner of the server can change the icon, if you see others with a different icon, then it's a visual bug.
 
 #### People have a different Server Tag name, even though were in the same Server, **why**?
 
