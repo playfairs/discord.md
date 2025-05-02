@@ -11,5 +11,3 @@ Research. Before I write, I do research, I want to be sure that the information 
 ## What Information will this Repository cover?
 
 This Repository will cover things such as Experimental Features which have not been fully if at all released to Discord Stable, Base Features, Server Guides, Discord Bots, and more, it may also include things which are related to discord.py, the Python Library for creating Discord Bots, Created and Maintained by [Rapptz](https://github.com/Rapptz), for more Official information on discord.py, you can check out [discordpy.readthedocs.io](https://discordpy.readthedocs.io/en/stable/).
-
-##
